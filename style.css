@@ -1,0 +1,32 @@
+.button-a{
+    border:1px solid black ;
+    text-decoration: none;
+    padding: 15px 32px;
+    background: rgb(51, 48, 48);
+    color: white;
+}
+.flask{
+    border-radius:75px;
+    object-fit: cover;
+    font-size: 30px;
+    background-color:rgb(2,189,213);
+    padding:40px;
+    color: aliceblue;
+    margin-right: 30px;
+}
+.button-b{
+    border:1px solid rgb(255, 255, 255) ;
+    text-decoration: none;
+    padding: 15px 32px;
+    color: rgb(22, 134, 209);
+    background:  white;
+}
+.flask1{
+    object-fit: cover;
+    background-color:rgb(2,189,213);
+    padding:16px 8px;
+    color: aliceblue;
+    margin-right: 0px;
+}
+
+   

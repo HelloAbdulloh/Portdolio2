@@ -1,2 +1,1 @@
-# Portdolio2
-Javascript kursdan 
+# portfoliotwo
